@@ -1,12 +1,12 @@
 # Ruby/Minitest Kata Template
 
-Project template for starting TDD Kata using Ruby and Minitest 
+Scaffolding project for TDD katas with Ruby and Minitest
 
 ## Usage
 
 Clone the repository.
 
-    $ git clone git://github.com/jarhart/kata-template-ruby-minitest.git my_awesome_kata
+    $ git clone git://github.com/solive/ruby_kata_scaffolding.git
 
 Create a "kata" gemset and `cd` into your kata directory.
 
